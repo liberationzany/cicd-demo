@@ -24,6 +24,7 @@
 
   <!-- SonarCloud Configuration -->
     <sonar.organization>liberationzany</sonar.organization>
+  <sonar.projectKey>liberationzany_cicd-demo</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   <sonar.coverage.jacoco.xmlReportPaths>
    ../app-it/target/site/jacoco-aggregate/jacoco.xml

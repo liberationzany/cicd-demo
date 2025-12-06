@@ -1,7 +1,8 @@
 {
     "sonarlint.connectedMode.project": {
         "connectionId": "liberationzany",
-        "projectKey": "Rynorbu_cicd_demo1"
+        "projectKey": "liberationzany_cicd-demo"
     },
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
