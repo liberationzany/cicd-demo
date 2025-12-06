@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "liberationzany",
+        "projectKey": "Rynorbu_cicd_demo1"
+    }
+}
